@@ -149,7 +149,7 @@ const ReWearLanding = () => {
           </h1>
           
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Join ReWear's community of fashion-forward individuals who swap, share, and sustain. 
+            Join ReWear&apos;s community of fashion-forward individuals who swap, share, and sustain. 
             Transform your wardrobe while reducing textile waste through our innovative point-based exchange system.
           </p>
           
