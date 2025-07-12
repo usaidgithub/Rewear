@@ -53,7 +53,7 @@ export default function ProductCard({ item }) {
             focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50
             transition duration-300 ease-in-out transform hover:-translate-y-0.5
           ">
-            View Details
+            Swap
           </button>
         </Link>
       </div>
